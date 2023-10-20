@@ -21,6 +21,7 @@ body:
     label: x64dbg Version
     placeholder: Jul 29 2021
     description: To get the version information, press "Help" on the menu bar and press "About".
+    id: dbgversion
   validations:
     required: true
 
